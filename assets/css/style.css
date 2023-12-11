@@ -1,0 +1,21 @@
+[class*="col-"] {
+    height: 80px;
+}
+
+body {
+    background-color: grey;
+}
+
+/* COLOR CLASSES */
+
+.color-blk {
+    background-color: black;
+}
+
+.color-wht {
+    background-color: white;
+}
+
+.color-grn {
+    background-color: green;
+}
