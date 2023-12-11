@@ -1,5 +1,5 @@
 [class*="col-"] {
-    height: 50px;
+    height: calc(1070px / 12);
 }
 
 body {
