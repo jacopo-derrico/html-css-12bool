@@ -1,5 +1,5 @@
 [class*="col-"] {
-    height: 80px;
+    height: 50px;
 }
 
 body {
@@ -16,6 +16,18 @@ body {
     background-color: white;
 }
 
-.color-grn {
-    background-color: green;
+.color-yll {
+    background-color: yellow;
+}
+
+.color-yll-light {
+    background-color: lightyellow;
+}
+
+.color-blu {
+    background-color: blue;
+}
+
+.color-blu-light {
+    background-color: lightblue;
 }
